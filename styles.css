@@ -1,0 +1,158 @@
+#listed-comics {
+    margin: 2rem;
+}
+
+.comic-image {
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+  }
+
+
+#listed-comics {
+    text-align: center;
+    margin: 2rem;
+}
+.comic-card {
+    background-color: #dff6f0;
+    text-align: center;
+    border: grey solid 1px;
+    padding: 1rem;
+    width: 15rem;
+    height: 25rem;
+    display: inline-grid;
+    margin: 1rem 2rem;
+    font-family: 'Bangers', cursive;
+    border-radius: 12px;
+    
+}
+
+.comic-image {
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+  }
+#search-bar{
+    text-align: center;
+    padding-left: 5px;
+}
+
+.h1-header {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXZ9jN_VoP2u1PRPIKNMstJjlg005lqKxBgW95xQ3_h-Duhh37");
+    padding: 80px;
+    text-align: center;
+    color: red;
+    font-family: 'Bangers', cursive;
+    font-size: 70px;
+}
+
+.detail-page-h1{
+    font-family: 'Bangers', cursive;
+}
+
+.detail-page-img{
+    width: 30%;
+}
+
+img {
+    width: 100%;
+}
+
+#randomizer-button{
+    background-color: red;
+    border-color: azure;
+    border-width: thick;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+}
+
+.random-card {
+    align-self: center;
+    background-image: url("https://thumbs.dreamstime.com/b/green-retro-comic-book-page-background-halftone-effect-dots-111433133.jpg");
+    text-align: center;
+    color: azure;
+    border: grey solid 1px;
+    padding: 1rem;
+    width: 30rem;
+    height: 40rem;
+    display: inline-grid;
+    margin: 1rem 2rem;
+    font-family: 'Bangers', cursive;
+}
+
+.random-container{
+    text-align: center;
+}
+
+.comic-card-btn-all-comics{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 12px;
+    width: 150px;
+    height: 35px;
+    font-size: 16px;
+    background-color: #46b3e6;
+    text-align: center;
+    margin-left: 27px;
+    margin-top: 20px;
+}
+
+
+body {
+    text-align: center;
+    background-color: white;
+}
+
+#search-form-div{
+    text-align: center;
+    margin: auto;
+}
+
+form{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 25%;
+    margin: auto;
+}
+
+#back-button{
+    margin-top: 5px;
+    text-align: center;
+}
+
+#add-btn{
+    margin-top: 5px;
+    text-align: center;
+   
+}
+
+.comic{
+    background-image: url("https://www.kindpng.com/picc/m/3-32201_transparent-retro-radio-clipart-transparent-background-tv-png.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    padding-top: 300px;
+}
+
+#info-div{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+    padding-right: 220px;
+    padding-bottom: 220px;
+}
+
+#comic-desc{
+    font-stretch: ultra-condensed;
+    width: 60%;
+    margin-left: 20%;
+}
+
+
+
